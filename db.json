@@ -1,0 +1,18 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "název místa",
+      "coordX": 0,
+      "coordZ": 0,
+      "type": "restaurant"
+    },
+    {
+      "name": "pozice 2",
+      "coordX": "15",
+      "coordZ": "20",
+      "type": "pub",
+      "id": 2
+    }
+  ]
+}
